@@ -1,0 +1,47 @@
+﻿id,code,type,value,translations,is_standard,is_active,sort_order
+1,mg,mass,0.001,"{""en"": ""milligram"", ""zh_Hant"": ""毫克""}",1,1,1
+2,g,mass,1,"{""en"": ""gram"", ""zh_Hant"": ""公克""}",1,1,2
+3,kg,mass,1000,"{""en"": ""kilogram"", ""zh_Hant"": ""公斤""}",1,1,3
+4,twta,mass,37.5,"{""en"": ""tael(TW)"", ""zh_Hant"": ""台兩""}",1,1,4
+5,twct,mass,600,"{""en"": ""catty(TW)"", ""zh_Hant"": ""台斤""}",1,1,5
+6,ml,volume,0.001,"{""en"": ""milliliter"", ""zh_Hant"": ""毫升""}",1,1,6
+7,cc,volume,0.001,"{""en"": ""cubic centimeter"", ""zh_Hant"": ""cc""}",1,1,7
+8,L,volume,1,"{""en"": ""liter"", ""zh_Hant"": ""公升""}",1,1,8
+9,bkt,volume,,"{""en"": ""bucket"", ""zh_Hant"": ""桶""}",0,1,9
+10,pcs,count,,"{""en"": ""piece"", ""zh_Hant"": ""件""}",0,1,10
+11,doz,count,,"{""en"": ""dozen"", ""zh_Hant"": ""打""}",0,1,11
+12,bag,count,,"{""en"": ""bag"", ""zh_Hant"": ""包""}",0,1,12
+13,ctn,count,,"{""en"": ""carton"", ""zh_Hant"": ""箱""}",0,1,13
+14,box,count,,"{""en"": ""box"", ""zh_Hant"": ""盒""}",0,1,14
+15,jar,count,,"{""en"": ""jar"", ""zh_Hant"": ""罐""}",0,1,15
+16,btl,count,,"{""en"": ""bottle"", ""zh_Hant"": ""瓶""}",0,1,16
+17,pot,count,,"{""en"": ""pot"", ""zh_Hant"": ""壺""}",0,1,17
+18,gal,count,,"{""en"": ""gallon"", ""zh_Hant"": ""加侖""}",0,1,18
+19,stp,count,,"{""en"": ""strip"", ""zh_Hant"": ""條""}",0,1,19
+20,stk,count,,"{""en"": ""stick"", ""zh_Hant"": ""根""}",0,1,20
+21,slc,count,,"{""en"": ""slice"", ""zh_Hant"": ""片""}",0,1,21
+22,roll,count,,"{""en"": ""roll"", ""zh_Hant"": ""捲""}",0,1,22
+23,sht,count,,"{""en"": ""sheet"", ""zh_Hant"": ""張""}",0,1,23
+24,plt,count,,"{""en"": ""plate"", ""zh_Hant"": ""板""}",0,1,24
+25,set,count,,"{""en"": ""set"", ""zh_Hant"": ""組""}",0,1,25
+26,pair,count,,"{""en"": ""pair"", ""zh_Hant"": ""雙""}",0,1,26
+27,ptn,count,,"{""en"": ""portion"", ""zh_Hant"": ""份""}",0,1,27
+28,bs,count,,"{""en"": ""basket"", ""zh_Hant"": ""籃""}",0,1,28
+29,bdl,count,,"{""en"": ""bundle"", ""zh_Hant"": ""捆""}",0,1,29
+30,blk,count,,"{""en"": ""block"", ""zh_Hant"": ""塊""}",0,1,30
+31,bnc,count,,"{""en"": ""bunch"", ""zh_Hant"": ""串""}",0,1,31
+32,hpc,count,,"{""en"": ""hundred pieces"", ""zh_Hant"": ""百件""}",0,1,32
+33,kpcs,count,,"{""en"": ""kilo pieces"", ""zh_Hant"": ""千件""}",0,1,33
+34,kunit,count,,"{""en"": ""kunit"", ""zh_Hant"": ""千單位""}",0,1,34
+35,unit,count,,"{""en"": ""unit"", ""zh_Hant"": ""單位""}",0,1,35
+36,unit1,count,,"{""en"": ""piece"", ""zh_Hant"": ""個""}",0,1,36
+37,unit2,count,,"{""en"": ""piece"", ""zh_Hant"": ""顆""}",0,1,37
+38,unit3,count,,"{""en"": ""unit"", ""zh_Hant"": ""台""}",0,1,38
+39,unit4,count,,"{""en"": ""pcs"", ""zh_Hant"": ""入""}",0,1,39
+40,unit5,count,,"{""en"": ""set"", ""zh_Hant"": ""式""}",0,1,40
+41,unit6,count,,"{""en"": ""set"", ""zh_Hant"": ""套""}",0,1,41
+42,unit7,count,,"{""en"": ""sack"", ""zh_Hant"": ""袋""}",0,1,42
+43,unit8,count,,"{""en"": ""pair"", ""zh_Hant"": ""對""}",0,1,43
+44,unit9,count,,"{""en"": ""piece"", ""zh_Hant"": ""支""}",0,1,44
+45,unit10,count,,"{""en"": ""thousand pieces"", ""zh_Hant"": ""千支""}",0,1,45
+46,unit11,count,,"{""en"": ""large bag"", ""zh_Hant"": ""大包""}",0,1,46
